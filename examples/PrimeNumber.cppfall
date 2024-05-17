@@ -1,0 +1,15 @@
+BEGIN_COMMENT
+/**
+ * PrimeNumber
+ */
+END_COMMENT
+BEGIN_CLASS PrimeNumber
+    BEGIN_COMMENT
+    /**
+     * Generate
+     */
+    END_COMMENT
+    BEGIN_FUNC MEMBER ULONGLONG Generate
+        PARAM ULONGLONG nMinNumber
+    END_FUNC
+END_CLASS
